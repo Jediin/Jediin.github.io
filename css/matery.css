@@ -603,7 +603,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@-webkit-keyframes rainbow {
+/*@-webkit-keyframes rainbow {
 
     0%,
     100% {
@@ -693,7 +693,7 @@ header .go-back i {
         background: -moz-linear-gradient(135deg, rgba(65, 105, 255, 0.3) 0%, rgba(65, 105, 255, 0.3) 100%);
         background: -webkit-linear-gradient(135deg, rgba(265, 105, 255, 0.3) 0%, rgba(65, 105, 255, 0.3) 100%);
     }
-}
+}*/
 
 .index-card {
     margin-top: -10px;
